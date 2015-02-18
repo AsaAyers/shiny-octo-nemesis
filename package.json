@@ -1,0 +1,30 @@
+{
+  "name": "shiny-octo-nemesis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AsaAyers/shiny-octo-nemesis.git"
+  },
+  "author": "Asa Ayers <Asa@AsaAyers.com>",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/AsaAyers/shiny-octo-nemesis/issues"
+  },
+  "homepage": "https://github.com/AsaAyers/shiny-octo-nemesis",
+  "dependencies": {
+    "babelify": "^5.0.3",
+    "envify": "^3.2.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jit-grunt": "^0.9.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-copy": "^0.7.0"
+  }
+}
